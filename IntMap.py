@@ -114,8 +114,8 @@ def build_map(output: str | Path = "leeghwaterplas_map.html") -> Path:
 		"Hannie Schaftpark": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\hannie-schaftpark.png")],
 		"Jeugdland Almere-Stad": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Jeugdland.jpg")],
 		"Bos der Onverzettelijken": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\bos_onverzettelijk_resized.jpg")],
-		"Leeghwaterplas": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Leeghwaterplas.jpg")],
-		"Steiger Leeghwaterplas": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Steiger.jpg"), Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\steiger_personen.jpg")],
+		"Leeghwaterplas": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\IMG_6750.JPG"),Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Leeghwaterplas.jpg"), Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\DSCF7055.JPG")],
+		"Steiger Leeghwaterplas": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\IMG_6776.JPG"),Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Steiger.jpg"), Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\steiger_personen.jpg")],
 		"Speeltuin Leeghwaterpad": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\speeltuintje.jpg")],
 		"Speeltuin Lekstraat": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\bokspringen.jpg")],
 		"Hangplek": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\hangplek.jpg")],
@@ -123,7 +123,7 @@ def build_map(output: str | Path = "leeghwaterplas_map.html") -> Path:
 		"Voetbalveldje 2": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Voetbalveldje2.jpg")],
 		"Voetbalveldje 3": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Voetbalveldje3.jpg")],
 		"Mini ramp Waterwijk": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\mini_ramp.jpg")],
-		"Derde waterbrug": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Derde_brug.jpg")],
+		"Derde waterbrug": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Derde_brug.jpg"), Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Schermafbeelding 2026-02-01 144515.png")],
 		"Potentieel skatepark": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Before_skatepark.jpg"), Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\skatepark_mini.jpg")],
 	}
 
