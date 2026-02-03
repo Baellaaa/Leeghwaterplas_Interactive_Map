@@ -105,6 +105,8 @@ def build_map(output: str | Path = "leeghwaterplas_map.html") -> Path:
 		((52.38422690678109, 5.239685202707825), "Bos der Onverzettelijken", "darkgreen", " 'Het geven van invulling aan de uitvoering van de verantwoordelijkheden van de gemeente Almere, voortvloeiend uit het convenant van 29 april 1993 en tevens de rol overneemt van de in het convenant genoemde 'begeleidingscomissie' van de Stichting Samenwerkend Verzet.' "),
 		((52.384226906789316, 5.225214172870135), "Buurtcentrum De Draaikolk", "beige", "Een plek om samen te komen, waar momenteel weinig tot geen activiteiten voor jongeren georganiseerd worden. Door bijvoorbeeld een moestuin aan te leggen naast het buurtcentrum (waar al ruimte voor vrijgemaakt is), meer activiteiten te organiseren door het jaar heen en de mogelijkheid aan te bieden om binnen te wandelen kan dit buurtcentrum een ontmoetingsplek worden voor jongeren! Zo blijven ze niet buiten de deur hangen."),
 		((52.38317, 5.23377), "Leeghwaterplas", "blue", "Onze gekozen locatie om aantrekkelijk te maken voor jongeren tussen de 17 en 24 jaar!"),
+		((52.38707028156098, 5.226383755138824), "Bushalte Waterwijk West", "beige", "Bushalte met een loopafstand van circa 5 minuten naar Leeghwaterplas!"),
+		((52.38335138687997, 5.225857775186909), "Bankjes", "purple", "Wat rustplekken verspreiden door Leeghwaterplas kan ervoor zorgen dat jongeren langer blijven rondhangen om te zitten en praten. Hierbij hebben wij ook gekeken naar het ontwerp van de bankjes. Om zowel onderdak te bieden als het zwervervriendelijker te maken, zijn de bankjes zoals hieronder een goede keuze. Verder zijn bankjes zoals in de AI simulatie ook een goed alternatief!" ),
 		((52.38521877325971, 5.23229183072874), "Steiger Leeghwaterplas", "beige", "Een bootje aanleggen of het water inspringen? Vanaf de grootste steiger in Leeghwaterplas kan het! Er zijn meerdere steigers op deze locatie, maar dit is wel de meest aantrekkelijke!"),
 	]
 
@@ -118,11 +120,13 @@ def build_map(output: str | Path = "leeghwaterplas_map.html") -> Path:
 		"Steiger Leeghwaterplas": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\IMG_6776.JPG"),Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Steiger.jpg"), Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\steiger_personen.jpg")],
 		"Speeltuin Leeghwaterpad": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\speeltuintje.jpg")],
 		"Speeltuin Lekstraat": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\bokspringen.jpg")],
+		"Bushalte Waterwijk West": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Schermafbeelding 2026-02-01 232306.png")],
 		"Hangplek": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\hangplek.jpg")],
 		"Voetbalveldje 1": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\voetbalveldje1.jpg")],
 		"Voetbalveldje 2": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Voetbalveldje2.jpg")],
 		"Voetbalveldje 3": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Voetbalveldje3.jpg")],
 		"Mini ramp Waterwijk": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\mini_ramp.jpg")],
+		"Bankjes": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\bank.jpg")],
 		"Derde waterbrug": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Derde_brug.jpg"), Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Schermafbeelding 2026-02-01 144515.png")],
 		"Potentieel skatepark": [Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\Before_skatepark.jpg"), Path(r"C:\Users\Jermaine P\source\repos\Leeghwaterplas_Interactive_Map\Images_Leegh\skatepark_mini.jpg")],
 	}
